@@ -1,3 +1,4 @@
-# release-candidate
+# 1.0.0
 
- TODO: Enumerate changes.
+Initial release. Provides basic support for tsc building of typescript source.
+
